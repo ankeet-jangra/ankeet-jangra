@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning C++ and DSA.
 - 💞️ I’m looking to collaborate on begginer projects.
-- 📫 How to reach me ankit85tagale@gmail.com
+- 📫 Reach me ankit85tagale@gmail.com
 
 <!---
 ankeet-jangra/ankeet-jangra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
